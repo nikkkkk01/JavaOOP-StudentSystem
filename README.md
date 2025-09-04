@@ -31,7 +31,12 @@ myPackage/
 3. Compile and run Main.java.
 
 
+
+
+
 📸 Demo
+
+
 Input Window
 
 <img width="282" height="167" alt="image" src="https://github.com/user-attachments/assets/a30f0446-1f81-42fd-9c59-0157f86eead8" />
@@ -48,7 +53,9 @@ Output Window
 
 
 
+
 📖 Concepts Used
+
 
 Encapsulation (private fields, public getters/setters)
 
@@ -57,7 +64,10 @@ Object Creation (new Student())
 Swing GUI Components (JFrame, JPanel, JLabel, JTextField, JOptionPane)
 
 
+
 ✨ Future Improvements
+
+
 
 Add more student details (e.g., age, year level, email).
 
